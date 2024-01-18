@@ -1,3 +1,7 @@
+AIML - Hackathon Project 2020 (CMRIT)
+
+Contributors: Shashank Reddy, Delip Antonio and Vaisakh Anil.
+
 # music-genre-classification
 
 We model a classifier to classify songs into different genres. Let us assume a scenario in which, for some reason, we find a bunch of randomly named MP3 files on our hard disk, which are assumed to contain music. Our task is to sort them according to the music genre into different folders such as jazz, classical, country, pop, rock, and metal.
